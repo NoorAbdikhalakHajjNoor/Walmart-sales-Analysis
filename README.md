@@ -1,5 +1,5 @@
 # walmaet-sales-task
-# Walmart Sales Prediction using XGBoost
+# Walmart Sales Prediction
 
 ## Project Overview
 This project aims to predict weekly sales for Walmart stores using historical sales data, store attributes, and additional economic indicators. The dataset includes markdown events, holidays, consumer price index (CPI), and unemployment rates to improve forecasting accuracy.
