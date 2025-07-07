@@ -1,4 +1,4 @@
-# walmaet-sales-task
+# walmart-sales-task
 # Walmart Sales Prediction
 
 ## Project Overview
